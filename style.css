@@ -1,0 +1,38 @@
+.gmail-login {
+	box-sizing: border-box;
+	border: 1px solid #b0abab;
+	padding: 27px 52px;
+    border-radius: 6px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.5);
+}
+.logo{}
+.logo img{
+    width: 127px;
+}
+.gmail-info h2 {
+	font-size: 24px;
+}
+.coustom-input{
+
+}
+.right-img p {
+	font-size: 19px;
+}
+.input-fil p {
+	font-size: 12px;
+}
+.input-fil a {
+	text-decoration: none;
+	font-weight: 600;
+}
+.icon i {
+	display: inline-block;
+	font-size: 20px;
+	margin-top: 25px;
+	color: #606060;
+	margin-left: -6px;
+}
+.gmaill-button {
+	padding: 5px 19px;
+	border-radius: 5px;
+}
